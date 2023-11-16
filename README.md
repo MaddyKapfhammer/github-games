@@ -4,8 +4,6 @@
 
 **Faciliator:** Madelyn Kapfhammer
 
-**Date:** November 16, 2023
-
 **About me:** Hi! My name is Maddy! I am an avid GitHub user and LOVE to spend time with my dog when I am not hanging out online. It's great to meet you!
 
 A project based learning activity for people who are getting started with Git and GitHub.
