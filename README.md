@@ -4,6 +4,8 @@
 
 **Faciliator:** Madelyn Kapfhammer
 
+**About me:** Hi! My name is Maddy! I am an avid GitHub user and LOVE to spend time with my dog when I am not hanging out online. It's great to meet you!
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://maddykapfhammer.github.io/github-games/
